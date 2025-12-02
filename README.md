@@ -91,6 +91,13 @@ Membres du groupe :
 -Paiement sécurisé ou réservation via l’application (plus tard).
 
 -Possibilité de négociation de prix dans un chat spécialisé.
+![IMG_20251201_174436_437](https://github.com/user-attachments/assets/7a4235ce-b5d3-4787-842e-4415389793c9)
+
+![IMG_20251201_174441_222](https://github.com/user-attachments/assets/570aecbb-c003-47a7-9a4b-cfbc0639e5a0)
+
+
+![IMG_20251201_174447_892](https://github.com/user-attachments/assets/befc9c0a-dea5-4979-8e91-0490bd3bffe7)
+
 
 ![mobizen_20251201_160200-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/de6c34c7-8e2a-481f-8ee0-9aefe2c60e0f)
 
