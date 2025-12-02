@@ -1,94 +1,80 @@
-# les-ingenieurs
-Membres du groupe :
 
--EDOUARD JEAN PHILIPPE 
--JULES NAÏLA BLANCA 
--PATRICE GLORY KAREN WYLDY
--JEAN JACQUES MARVENS 
--PAUL DONDIA NAÏMA
+the-engineers
+Group members:
 
+-EDOUARD JEAN PHILIPPE -JULES NAÏLA BLANCA -PATRICE GLORY KAREN WYLDY -JEAN JACQUES MARVENS -PAUL DONDIA NAÏMA
 
-#Idée d'application :
+#Application idea:
 
-#LuxAuto 
-– Plateforme de mise en relation acheteurs & vendeurs de voitures dans le monde
+#LuxAuto – A platform connecting buyers and sellers of cars worldwide
 
+#General description:
 
-#Description générale :
+-The LuxAuto Connect application has a dual purpose:
 
--L'application LuxAuto Connect a une double utilité :
+#1️⃣ For buyers - It allows anyone, wherever they are in Haiti, to view available vehicles (photos, technical details, price, location), compare options, and get in direct contact with the seller through the application (chat, call, WhatsApp).
 
-#1️⃣ Pour les acheteurs
--Elle permet à toute personne, où qu'elle soit en Haïti, de visualiser les véhicules disponibles (photos, détails techniques, prix, localisation), comparer les options, et entrer directement en contact avec le vendeur à travers l’application (chat, appel, WhatsApp).
+#2️⃣ For sellers - The application also allows users, depending on their level of experience or subscription, to become official sellers on the platform, publish their cars, manage ads, receive messages and close sales.
 
-#2️⃣ Pour les vendeurs
--L’application permet également aux utilisateurs, selon leur niveau d’expérience ou abonnement, de devenir vendeurs officiels sur la plateforme, publier leurs voitures, gérer les annonces, recevoir des messages et conclure des ventes.
+#Problem identified:
 
+-In Haiti, it is often difficult to:
 
-#Problème identifié :
+-Buyers → to find reliable cars, check prices, or contact good sellers.
 
--En Haïti, il est souvent difficile pour :
+-Sellers → to display their vehicles to a wide audience, without spending on advertising or travel.
 
--Les acheteurs → de trouver des voitures fiables, vérifier prix, ou contacter les bons vendeurs.
+#Proposed solution:
 
--Les vendeurs → d’exposer leurs véhicules à un large public, sans dépenser en publicité ou déplacement.
+-LuxAuto Connect creates a digital bridge between car buyers and sellers in Haiti, thanks to: ✔ A centralized platform -Photos + details + price + location -Direct contact between seller and buyer -Opportunity to become a seller based on experience (level/subscription)
 
-#Solution proposée :
+#User testimonials:
 
--LuxAuto Connect crée un pont digital entre les acheteurs et les vendeurs de voitures en Haïti, grâce à : ✔ Une plateforme centralisée
--Photos + détails + prix + localisation
--Contact direct vendeur/acheteur
--Possibilité de devenir vendeur selon expérience (niveau / abonnement)
+"I always had to go out to look for cars, now I can see everything on my phone, and I can contact the owner directly." "As a small seller, the application helps me sell faster without having to advertise on Facebook."
 
-
-
-#Témoignages d'utilisateurs :
-
--Mwen te toujou oblije deplase pou m chèche machin, kounya m ka wè tout sou telefòn mwen, e m ka kontakte mèt li dirèk.”
--Kòm yon ti vendeur, aplikasyon an ede m vann pi vit san mwen pa bezwen fè piblisite sou Facebook.”
-
-
-
-#Fonctionnalités principales
+#Main Features
 
 #Indispensable
 
--L’utilisateur peut créer un compte (acheteur ou vendeur).
+-The user can create an account (buyer or seller).
 
--L’acheteur peut visualiser toutes les voitures disponibles (photo, marque, modèle, prix, localisation).
+-The buyer can view all available cars (photo, make, model, price, location).
 
--L’utilisateur peut entrer en contact directement avec le vendeur (chat, appel, WhatsApp).
+-The user can get in direct contact with the seller (chat, call, WhatsApp).
 
--Le vendeur peut publier une annonce (photo, description, prix).
+-The seller can publish an advertisement (photo, description, price).
 
--L’utilisateur peut supprimer/modifier ses annonces.
+-The user can delete/edit their ads.
 
--Recherche filtrée (par prix, localisation, marque, type véhicule).
+-Filtered search (by price, location, brand, vehicle type).
+
+#Maybe
+
+-Verified seller profile system (documents or badge).
+
+-Possibility for sellers to have a professional account.
+
+-Save a car to your favorites list.
+
+-Rate or leave a review for the seller.
+
+-Geolocation of nearby cars.
+
+#It would be nice to have
+
+-Integrated messaging with document sharing (vehicle registration document, paperwork).
+
+-“Price estimation” mode → the app estimates the value of the car.
+
+-Secure payment or booking via the app (later).
+
+-Possibility of price negotiation in a specialized chat.
 
 
 
-#Peut-être
-
--Système de profil vendeur vérifié (documents ou badge).
-
--Possibilité pour les vendeurs d’avoir un compte professionnel.
-
--Sauvegarder une voiture en liste de favoris.
-
--Noter ou laisser un avis sur le vendeur.
-
--Géolocalisation des voitures proches.
 
 
 
-
-#Ce serait bien d’avoir
-
--Messagerie intégrée avec partage de documents (carte grise, papye).
-
--Mode “Estimation prix” → l'appli estime la valeur de la voiture.
-
--Paiement sécurisé ou réservation via l’application (plus tard).
 
 -Possibilité de négociation de prix dans un chat spécialisé.
 ![IMG_20251201_174436_437](https://github.com/user-attachments/assets/7a4235ce-b5d3-4787-842e-4415389793c9)
