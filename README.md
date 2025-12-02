@@ -1,6 +1,6 @@
+#the-engineers
 
-the-engineers
-Group members:
+#Group members:
 
 -EDOUARD JEAN PHILIPPE -JULES NAÏLA BLANCA -PATRICE GLORY KAREN WYLDY -JEAN JACQUES MARVENS -PAUL DONDIA NAÏMA
 
@@ -30,7 +30,7 @@ Group members:
 
 #User testimonials:
 
-"I always had to go out to look for cars, now I can see everything on my phone, and I can contact the owner directly." "As a small seller, the application helps me sell faster without having to advertise on Facebook."
+-I always had to go out to look for cars, now I can see everything on my phone, and I can contact the owner directly." "As a small seller, the application helps me sell faster without having to advertise on Facebook."
 
 #Main Features
 
